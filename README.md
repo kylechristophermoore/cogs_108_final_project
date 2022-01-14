@@ -1,3 +1,5 @@
+FinalProject_group032.ipynb contains the finished project.
+
 Final projects for COGS 108: Data Science in Practice.
 Group project based on our proposal that city spendings in different categories is correlated with rates of sexual assault.
 
